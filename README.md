@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nishant kumar</h1>
-<h3 align="center">An aspiring Full Stack Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
+<h3 align="center">An aspiring software engineer</h3>
 
 
-- 🔭 I’m currently working on **Open Source Projects and Personal Branding**
+- 🔭 I’m currently working on **nothing right now**
 
-- 🌱 I’m currently learning **Full Stack Development and Best Practices**
-
-- 👯 I’m looking to collaborate on **CNCF and Various other Open Source Projects**
-
-- 🤝 I’m looking for help with **Modern Web Technologies**
-
-- 💬 Ask me about **Linux, MERN, and various tools of DevOps**
+- 🌱 I’m currently learning **full stack web development and doing dsa in c++ language**
 
 - 📫 How to reach me **nishantstudy69gmail.com**
 
